@@ -1,0 +1,30 @@
+#div1{
+    background-color: #ffa500;
+    height: 341.5px;
+    width: 768px;
+}
+#div2{
+    background-color: hsl(300, 76%, 72%) ;
+    height: 341.5px;
+    width: 768px;
+}
+#div3{
+    background-color: red;
+    height: 341.5px;
+    width: 768px;
+}
+#div4{
+    background-color: rgba(255, 99, 71, 0.5);
+    height: 341.5px;
+    width: 768px;
+}
+#div01{
+    background-color: white;
+    padding left: 300px; ;
+    height: 30px;
+    width: 50px;
+}
+h1{
+    color: black;
+    padding-left: 300x;
+}
